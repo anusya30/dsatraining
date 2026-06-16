@@ -1,4 +1,4 @@
-# Java Engineering — Scenario-Based Interview Questions
+# Scenario-Based Interview Questions
 > 20 Real-World Use Cases · Covering Advanced OOP, Design Patterns, Algorithms, Data Structures & System Design
 > Each question blends multiple topic areas — just like real engineering interviews
 
